@@ -3,6 +3,11 @@
 **Recipedia** is a full-stack web application that allows users to add, explore, and manage delicious recipes with ease. Built with the **MERN** (MongoDB, Express.js, React.js, Node.js) stack, it offers a user-friendly interface, personalized recipe collections, and community interaction features like likes and comments.
 
 
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
 **🌟 Features**
 
 - 🔐 **User Authentication** (Sign-up/Login)
